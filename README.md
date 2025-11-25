@@ -10,6 +10,7 @@ graph TD
     A --> E[pom.xml]
     A --> F[dependency-reduced-pom.xml]
     A --> G[server.properties.txt]
+    A --> H[DOC_MENSAJERIA.pdf]
 
     %% Subcarpetas de src/main/java/com/tarea
     B --> B1[main]
